@@ -1,0 +1,45 @@
+body {
+
+    margin: 0;
+
+
+}
+
+.container-l1 {
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: aqua;
+
+}
+
+.container-l2 {
+
+    scroll-snap-align: start;
+
+}
+
+#p1 {
+
+    background-color: red;
+
+}
+
+#p2 {
+
+    background-color: green;
+
+}
+
+#p3 {
+
+    background-color: yellow;
+
+}
+
+#p4 {
+
+    background-color: blue;
+
+}
